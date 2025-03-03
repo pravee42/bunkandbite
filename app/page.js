@@ -243,7 +243,7 @@ export default function Home() {
             <ScratchToReveal
               width={280}
               height={280}
-              minScratchPercentage={60}
+              minScratchPercentage={40}
               className="flex items-center justify-center overflow-hidden rounded-2xl shadow-inner"
               // Chocolate brownie gradient for scratch surface
               gradientColors={['#DC1C74', '#C2185B', '#E91E63']}
