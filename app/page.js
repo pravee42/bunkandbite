@@ -6,13 +6,9 @@ import {motion} from 'framer-motion';
 export default function Home() {
   // Array of bakery discount offers
   const offers = [
-    '20% OFF BROWNIES',
-    'BUY 1 GET 1 FREE',
-    'FREE COOKIE',
-    '50% OFF MUFFINS',
-    'FREE COFFEE WITH PURCHASE',
-    '$5 OFF $20+',
-    'FREE BROWNIE BITE',
+    'CHOCO BROWNIE FREE',
+    '10% OFF',
+    'BETTER LUCK NEXT TIME'
   ];
 
   // State to store the randomly selected offer
